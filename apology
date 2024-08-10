@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html>
+<head>
+   <title> Hi My Love </title>
+   <script type="text/javascript">
+   alert("Hello Pooks!")
+   alert("I know what I've said and done hurt you a lot, I wish I could take it all back; I made this for you my love. ")
+   alert("I hope you'll like it!")
+   </script>
+   <style>
+body{
+   background-image:url(https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif);
+   background-size: cover;
+   background-attachment: fixed;
+}
+.content{
+    background: url(https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif);
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    }
+</style>
+
+   <img src="https://c.tenor.com/1bN1lZmbwWcAAAAj/line.gif">
+   <h2 style="color: white""> To my love, I am always forever in your debt. You've shown me what real love is like. Your beauty, your presence, your voice, your sweet love and care, is a blessing from god. I truly am the luckiest boy in the world to have someone like you. </h2>
+
+   <img src="https://c.tenor.com/3RkBSAwE4xgAAAAj/quby-pentol.gif"/>
+   <h3 style="color: white">  Whenever you bless my eyes with your beauty, all I can think about is you, I get lost in thought, daydreaming about what our lives could be. Whenever I think about the future, you are always a part of it. You inspire me to be the best man I could possibly be. </h3>
+
+
+   <img src="https://c.tenor.com/Fm3_oNnjUjYAAAAj/line.gif">
+   <h3 style="color: white""> Whenever I see your text or see you calling me, I become very excited. Whenever I see you on facetime, I am at peace. You are the only person who can make hours into seconds, and a chaotic world peaceful. </h3>
+
+   <img src="https://c.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif">
+   <h3 style="color: white""> I have been in love with you for 471 days, 18 minutes, 5 seconds, and counting. This love I have for you is eternal, My soul feels at peace with you, I truly feel like we are connected in more ways than one. </h3>
+
+   <img src="https://c.tenor.com/mJ7Tkj3KIn0AAAAj/peach-and.gif">
+   <h2 style="color: white""> I wouldn't change you for anything, come as you are for I have always loved every part of you. </h2>
+
+   <img src="https://c.tenor.com/CdliypdvLTEAAAAj/quby-pentol.gif">
+   <h2 style ="color: white""> I am so sorry my love. </h2>
+
+   <img src="https://c.tenor.com/tsniEXs1tFkAAAAj/fbcuteboy.gif">
+   <h2 style ="color: white""> You're my partner in life, I wouldn't want to face the challenges of life with anyone else but you. </h2>
+
+   <img src="https://c.tenor.com/LxggFGxwOjIAAAAj/shy-cat.gif">
+  
+   </body>
+   </html>
